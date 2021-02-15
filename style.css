@@ -26,6 +26,17 @@ header{
     width: 320px;
     margin: 0 auto;
 }
+
+
+#hrn{
+   margin-top: -130px;
+   margin-left: 85%;
+   width: 125px;
+   z-index: 50;
+}
+
+
+
 .hbot{
   background: url(himg/hhh33.png);
   background-position: 0 20px;
