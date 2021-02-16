@@ -167,3 +167,19 @@ footer{
   font-weight: 900;
   line-height: 100px;
 }
+
+
+.tyanneru{
+  width: 150px;
+  height: 90px;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.tyannerub{
+  margin:5px;
+  border-bottom: 3px solid ;
+  border-image: linear-gradient(to right,skyblue,hotpink);
+  border-image-slice: 1;
+}
