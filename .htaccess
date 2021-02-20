@@ -1,0 +1,4 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.hrn-illustration\.ml$
+RewriteRule ^(.*)$ https://hrn-illustration.ml/$1 [R=301,L]
